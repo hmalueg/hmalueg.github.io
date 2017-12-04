@@ -1,5 +1,6 @@
 body {
-    background-image: url(background.jpg);
+    background: url(background.jpg);
+    
 }
 h1 {
     color: grey;
