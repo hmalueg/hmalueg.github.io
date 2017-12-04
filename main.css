@@ -1,6 +1,7 @@
 body {
     background-image: url("background.jpg");
+    background-color: pink;
 }
 h1 {
-    color: pink;
+    color: blue;
 }
