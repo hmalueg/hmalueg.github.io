@@ -1,5 +1,5 @@
 .main {
-    background: url(background.jpg);
+    background-image: url("background.jpg");
     width: 300px;
     height: 300px;
     
