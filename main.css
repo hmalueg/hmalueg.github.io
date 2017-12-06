@@ -17,11 +17,12 @@ div.overlay {
 }
 div.main {
     margin: auto;
-    margin-top: 18%;
+    margin-top: 14%;
     text-align: center;
 }
 .links {
     margin-left: 45%;
+    padding-top: 30px;
 }
 h1 {
     color: white;
